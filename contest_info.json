@@ -1,0 +1,35 @@
+{
+    "contest_id": "408737",
+    "freeze_after": 120,
+    "verbose": false,
+
+    "title": "2022 Konkuk University Programming Contest",
+    "problems": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J"
+    ],
+    "balloon_colors": [
+        "red",
+        "orange",
+        "yellow",
+        "darkgreen",
+        "turquoise",
+        "blue",
+        "purple",
+        "pink",
+        "brown",
+        "white"
+    ],
+    "contestants": [
+        "banweol 이동훈 Konkuk-University",
+        "HANDLE NAME GROUP(SEPARATE-BY-WHITESPACE)"
+    ]
+}
